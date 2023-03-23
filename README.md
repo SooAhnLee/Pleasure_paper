@@ -1,2 +1,2 @@
 # Data availability statement
-We will share our datasets, codes and other relevant materials in the fidshare link you provided upon the publication. 
+All data and codes that were used to generate main results will be shared upon publication.
