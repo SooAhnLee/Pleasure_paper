@@ -1,2 +1,2 @@
 # Data availability statement
-All data and codes that were used to generate main results will be shared upon publication.
+The data and codes including the predictive models will be shared upon publication through a Figshare repository upon publication.
