@@ -1,2 +1,2 @@
 # Data availability statement
-The data and codes including the predictive models will be shared upon publication through a Figshare repository.
+The fMRI and behavioral data, predictive models, and codes that were used in training and testing predictive models and generating main findings and figures will be shared upon publication.
